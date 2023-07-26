@@ -1,0 +1,4 @@
+interface Add {
+
+    fun add()
+}
